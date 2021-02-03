@@ -27,9 +27,9 @@ Repositório criado para o curso Black Tech Writer da VTEX
 <ol>
   <li><strong>Clique</strong> na lista de transmissão > <strong>Menu</strong> > <strong>Dados da lista de transmissão</strong>;</li>   
   <li>Dentro desta opção você pode:</li>
-    <ol>
-        <li>Nomear ou editar o nome da lista de transmissão<li>
-     </ol>
+      <ol>
+         <li>Nomear ou editar o nome da lista de transmissão</li>
+      </ol>
   </ol>
 
 
