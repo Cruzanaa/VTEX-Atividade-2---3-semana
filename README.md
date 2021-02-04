@@ -86,12 +86,32 @@ Você pode criar grupos no WhatsApp. Os grupos são uma forma simples de se comu
 2. **Clique** > **Convidar via link;**
   > Você pode copiar o link  e enviar para seu contatos mesmo para outros aplicativos;<br>
   > Enviar link via WhatsApp;<br>
-  > Copiar Link;
-  > Compartilhar link;
-  > Código QR
+  > Copiar Link;<br>
+  > Compartilhar link;<br>
+  > Código QR<br>
 
+#### Como remover participantes do grupo:
+1. **Clique** no grupo > **Menu**  > **Dados do grupo;**
+2. **Toque** e **Segure** no contato que deseja excluir;
+3. **Clique** > **Remover** participante;
+4. **Clique** > **OK** para confirmar;
+5. O participante foi removido.
 
-
+***
+##### Computadores:
+#### Criar grupo:
+1. **Acesse** o WhatsApp Web;
+2. **Clique** > **Menu** > **Novo Grupo;**
+Selecione os contatos que você deseja adicionar no grupo;
+Confirmar ;
+Nomei o grupo:
+Nomear o grupo é obrigatório;
+O nome pode ter 25 caracteres;
+Espaços e emojis são contados como caracteres;
+ Adicionar uma imagem ao grupo > Imagem 
+Você pode adicionar uma imagem da sua galeria, tirar uma foto ou pesquisar na internet.
+Para criar e salvar grupo , Confirmar 
+O grupo foi criado.
 
 
 
