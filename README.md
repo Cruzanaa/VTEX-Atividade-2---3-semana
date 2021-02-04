@@ -1,8 +1,8 @@
 # Black Tech Writer VTEX
-Repositório criado para o curso Black Tech Writer da VTEX
+Repositório criado para o curso Black Tech Writer da VTEX 2021.
 
 ## Funcionalidades WhatsApp:
-***
+
 
 ### Lista de transmissão
 <p>A funcionalidade lista de transmissão permite que você envie a mesma mensagem para diversos contatos da sua lista telefônica apenas uma vez.</p>
@@ -35,8 +35,8 @@ Repositório criado para o curso Black Tech Writer da VTEX
 4. **Clique** > **Confirmar;**
 5. Você removeu o contato desejado.
 
-
 >⚠️ A funcionalidade de remover contato da lista de transmissão funciona apenas com no mínimo 3 pessoas adicionadas. Não é possível ficar com apenas 1 contato dentro da lista de transmissão.
+
 
 #### Apagar lista de transmissão:
 ###### Primeira forma para apagar a lista de transmissão:
@@ -51,9 +51,8 @@ Repositório criado para o curso Black Tech Writer da VTEX
 3. Confirme > **Apagar** ;
 4. Você apagou a lista de transmissão.
 
+
 ---
-***
-===
 ### Grupos
 Você pode criar grupos no WhatsApp. Os grupos são uma forma simples de se comunicar com vários de seus contatos apenas uma vez. Você pode criá-los por interesse, como: amigos, família, escola e trabalho.
 
@@ -102,17 +101,67 @@ Você pode criar grupos no WhatsApp. Os grupos são uma forma simples de se comu
 #### Criar grupo:
 1. **Acesse** o WhatsApp Web;
 2. **Clique** > **Menu** > **Novo Grupo;**
-Selecione os contatos que você deseja adicionar no grupo;
-Confirmar ;
-Nomei o grupo:
-Nomear o grupo é obrigatório;
-O nome pode ter 25 caracteres;
-Espaços e emojis são contados como caracteres;
- Adicionar uma imagem ao grupo > Imagem 
-Você pode adicionar uma imagem da sua galeria, tirar uma foto ou pesquisar na internet.
-Para criar e salvar grupo , Confirmar 
-O grupo foi criado.
+3. Selecione os contatos que você deseja adicionar no grupo > **Confirmar;**
+4. Nomei o grupo:
+      > Nomear o grupo é obrigatório;<br>
+      > O nome pode ter 25 caracteres;<br>
+      > Espaços e emojis são contados como caracteres;<br>
+      > Adicionar uma imagem ao grupo > Imagem <br>
+      > Você pode adicionar uma imagem da sua galeria, tirar uma foto ou pesquisar na internet.
+5. Para criar e salvar grupo > **Confirmar;**
+6. O grupo foi criado.
 
+#### Convidar novos participantes para o grupo:
+1. **Clique** no grupo > **Menu**  > **Dados do grupo;**
+2. **Clique** > Adicionar participantes ;
+3. Selecione os contatos que você deseja adicionar no grupo;
+4. Para adicionar **Clique** > **Confirmar;**
+5. Você adicionou um novo participante no grupo.
+
+###### Convidar via link:
+1. **Clique** no grupo > **Menu**  > **Dados do grupo;**
+2. **Clique** > **Convidar via link;**
+3. Você pode enviar link para o contato que deseja adicionar ao grupo;
+4. Contato selecionado > **Clique** > **Confirme** ;
+
+#### Como remover participantes do grupo:
+1.  **Clique** no grupo > **Menu**> **Dados do grupo;**
+2. Mova o cursor do mouse até o contato que deseja remover > **Menu;**
+3. **Clique** em **Remover** ;
+4. Para confirmar, **Clique** > **Remover;**
+5. Você removeu um participante do grupo.
+
+#### Como editar dados do grupo:
+1. **Clique** no grupo > **Menu** > **Dados do grupo:**
+      > Dentro da função dados do grupo existe diversas funcionalidades.
+      - Inserir ou alterar o nome do grupo, 25 caracteres permitidos;
+      - Inserir ou alterar imagem do grupo;
+      - Adicionar ou alterar a descrição do grupo;
+      - Acessar  mídias, links e documentos compartilhados dentro do grupo;
+      - Silenciar notificações do grupo;
+      - Adicionar novos administradores para o grupo;
+      - Acessar  mensagens favoritas e mensagens temporárias;
+      - Sair do grupo;
+      - Denunciar grupo;
+      
+      
+#### Como sair e apagar o grupo:
+> ⚠️ Para apagar o grupo é necessário que você saia primeiro. Depois de sair do grupo você pode apagá-lo da sua lista de conversas. O histórico de conversas desse grupo também será apagado quando excluído.
+
+> ⚠️ Os grupos podem ter no total 256 pessoas adicionadas. Conforme o limite atingido não será permitido adicionar nenhum novo membro para o grupo.
+
+#### Sair do grupo:
+1. **Clique** no grupo > **Menu**  > **Dados do grupo;**
+2. **Clique** > **Sair** ;
+3. Para confirmar > **Clique** > **Sair;**
+4. Você saiu do grupo.
+
+
+#### Apagar o grupo:
+1. **Clique** no grupo > **Menu** > **Dados do grupo;**
+2. Para apagar o grupo, **Clique** > **Apagar;**
+3.**Clique** > **Apagar;**
+4. Você apagou o grupo.
 
 
 
@@ -120,4 +169,4 @@ O grupo foi criado.
 ***
 
 
-> ℹ️ Mais informações da documentação oficial [WhatsApp](https://faq.whatsapp.com/).
+> ℹ️ Mais informações acesse a documentação oficial [WhatsApp](https://faq.whatsapp.com/).
