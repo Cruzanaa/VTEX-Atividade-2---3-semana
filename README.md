@@ -1,10 +1,10 @@
-# Black Tech Writer VTEX
+## Black Tech Writer VTEX
 Repositório criado para o curso Black Tech Writer da VTEX 2021.
 
-## Funcionalidades WhatsApp:
+# Funcionalidades WhatsApp:
 
 
-### Lista de transmissão
+## Lista de transmissão
 <p>A funcionalidade lista de transmissão permite que você envie a mesma mensagem para diversos contatos da sua lista telefônica apenas uma vez.</p>
 
 
@@ -53,12 +53,12 @@ Repositório criado para o curso Black Tech Writer da VTEX 2021.
 
 
 ---
-### Grupos
+## Grupos
 Você pode criar grupos no WhatsApp. Os grupos são uma forma simples de se comunicar com vários de seus contatos apenas uma vez. Você pode criá-los por interesse, como: amigos, família, escola e trabalho.
 
 > ℹ️A função grupo está disponível para celulares e computadores.
 
-#### Celular:
+### Celular:
 #### Criar grupo:
 1. **Acesse** o WhatsApp > **Menu** > **Novo Grupo;**
     > Outra forma de criar grupo é **Clicar** no ícone de **Contatos** na tela princial;
