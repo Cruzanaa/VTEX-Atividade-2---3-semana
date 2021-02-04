@@ -58,7 +58,7 @@ Você pode criar grupos no WhatsApp. Os grupos são uma forma simples de se comu
 
 > ℹ️A função grupo está disponível para celulares e computadores.
 
-##### Celular:
+#### Celular:
 #### Criar grupo:
 1. **Acesse** o WhatsApp > **Menu** > **Novo Grupo;**
     > Outra forma de criar grupo é **Clicar** no ícone de **Contatos** na tela princial;
@@ -97,7 +97,7 @@ Você pode criar grupos no WhatsApp. Os grupos são uma forma simples de se comu
 5. O participante foi removido.
 
 ***
-##### Computadores:
+#### Computadores:
 #### Criar grupo:
 1. **Acesse** o WhatsApp Web;
 2. **Clique** > **Menu** > **Novo Grupo;**
