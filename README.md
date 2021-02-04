@@ -13,24 +13,18 @@ Repositório criado para o curso Black Tech Writer da VTEX
 
 #### Como criar uma lista de transmissão:
 
-<ol>
-  <li> Acesse o <strong>WhatsApp</strong> > <strong>Menu</strong>  > <strong>Lista de Transmissão</strong>;</li>
-  <li> Selecione os contatos que você deseja adicionar na lista;</li>
-  <li> Contatos selecionados, <strong>Clique</strong> > <strong>Confirmar</strong>;</li>
-  <li> Sua lista de transmissão foi criada. </li>
-</ol>
+
+1. Acesse o **WhatsApp** > **Menu**  > **Lista de Transmissão**;
+2. Selecione os contatos que você deseja adicionar na lista;
+3. Contatos selecionados, **Clique** > **Confirmar**;
+4. Sua lista de transmissão foi criada.
+
 
 
 
 #### Editar uma lista de transmissão:
 
-<ol>
-  <li><strong>Clique</strong> na lista de transmissão > <strong>Menu</strong> > <strong>Dados da lista de transmissão</strong>;</li>   
-  <li>Dentro desta opção você pode:</li>
-      <ol>
-         <li>Nomear ou editar o nome da lista de transmissão</li>
-      </ol>
-  </ol>
+
 
 
 
